@@ -1,0 +1,103 @@
+,name,code,weight
+0,Apple Inc,AAPL,10.997
+1,Microsoft Corp,MSFT,10.319
+2,Amazon.com Inc,AMZN,7.739
+3,Tesla Inc,TSLA,4.546
+4,Alphabet Inc,GOOG,4.12
+5,Alphabet Inc,GOOGL,3.881
+6,Facebook Inc,FB,3.726
+7,NVIDIA Corp,NVDA,3.689
+8,PayPal Holdings Inc,PYPL,2.212
+9,Netflix Inc,NFLX,2.017
+10,Adobe Inc,ADBE,1.937
+11,Comcast Corp,CMCSA,1.858
+12,Cisco Systems Inc/Delaware,CSCO,1.621
+13,Intel Corp,INTC,1.561
+14,PepsiCo Inc,PEP,1.527
+15,Broadcom Inc,AVGO,1.43
+16,Costco Wholesale Corp,COST,1.416
+17,Texas Instruments Inc,TXN,1.279
+18,T-Mobile US Inc,TMUS,1.109
+19,Honeywell International Inc,HON,1.067
+20,Intuit Inc,INTU,1.041
+21,QUALCOMM Inc,QCOM,1.03
+22,Charter Communications Inc,CHTR,0.975
+23,Starbucks Corp,SBUX,0.938
+24,Advanced Micro Devices Inc,AMD,0.896
+25,Moderna Inc,MRNA,0.87
+26,Intuitive Surgical Inc,ISRG,0.852
+27,Amgen Inc,AMGN,0.85
+28,Applied Materials Inc,AMAT,0.814
+29,Booking Holdings Inc,BKNG,0.717
+30,Analog Devices Inc,ADI,0.636
+31,Automatic Data Processing Inc,ADP,0.618
+32,Gilead Sciences Inc,GILD,0.603
+33,Mondelez International Inc,MDLZ,0.6
+34,Micron Technology Inc,MU,0.561
+35,Lam Research Corp,LRCX,0.558
+36,MercadoLibre Inc,MELI,0.549
+37,CSX Corp,CSX,0.523
+38,Fiserv Inc,FISV,0.512
+39,Illumina Inc,ILMN,0.438
+40,Zoom Video Communications Inc,ZM,0.435
+41,Autodesk Inc,ADSK,0.435
+42,Activision Blizzard Inc,ATVI,0.429
+43,ASML Holding NV,ASML,0.425
+44,Regeneron Pharmaceuticals Inc,REGN,0.41
+45,JD.com Inc ADR,JD,0.404
+46,Atlassian Corp PLC,TEAM,0.387
+47,IDEXX Laboratories Inc,IDXX,0.374
+48,Marvell Technology Inc,MRVL,0.374
+49,Dexcom Inc,DXCM,0.374
+50,DocuSign Inc,DOCU,0.368
+51,Align Technology Inc,ALGN,0.367
+52,NXP Semiconductors NV,NXPI,0.361
+53,Marriott International Inc/MD,MAR,0.361
+54,KLA Corp,KLAC,0.358
+55,Lululemon Athletica Inc,LULU,0.355
+56,Crowdstrike Holdings Inc,CRWD,0.353
+57,Workday Inc,WDAY,0.349
+58,Keurig Dr Pepper Inc,KDP,0.345
+59,Exelon Corp,EXC,0.342
+60,Monster Beverage Corp,MNST,0.34
+61,Vertex Pharmaceuticals Inc,VRTX,0.335
+62,eBay Inc,EBAY,0.332
+63,Kraft Heinz Co/The,KHC,0.326
+64,Synopsys Inc,SNPS,0.32
+65,Match Group Inc,MTCH,0.31
+66,Paychex Inc,PAYX,0.303
+67,American Electric Power Co Inc,AEP,0.302
+68,O'Reilly Automotive Inc,ORLY,0.301
+69,Biogen Inc,BIIB,0.301
+70,Cadence Design Systems Inc,CDNS,0.296
+71,Cintas Corp,CTAS,0.291
+72,Walgreens Boots Alliance Inc,WBA,0.289
+73,Microchip Technology Inc,MCHP,0.289
+74,Cognizant Technology Solutions Corp,CTSH,0.279
+75,Electronic Arts Inc,EA,0.272
+76,Xilinx Inc,XLNX,0.271
+77,Ross Stores Inc,ROST,0.27
+78,Baidu Inc ADR,BIDU,0.269
+79,Xcel Energy Inc,XEL,0.247
+80,Pinduoduo Inc ADR,PDD,0.243
+81,Okta Inc,OKTA,0.237
+82,Verisk Analytics Inc,VRSK,0.234
+83,Copart Inc,CPRT,0.232
+84,Seagen Inc,SGEN,0.215
+85,ANSYS Inc,ANSS,0.214
+86,Fastenal Co,FAST,0.213
+87,PACCAR Inc,PCAR,0.203
+88,NetEase Inc ADR,NTES,0.19
+89,Skyworks Solutions Inc,SWKS,0.19
+90,Sirius XM Holdings Inc,SIRI,0.178
+91,CDW Corp/DE,CDW,0.172
+92,Splunk Inc,SPLK,0.171
+93,VeriSign Inc,VRSN,0.166
+94,Peloton Interactive Inc,PTON,0.162
+95,Dollar Tree Inc,DLTR,0.156
+96,Cerner Corp,CERN,0.149
+97,Trip.com Group Ltd ADR,TCOM,0.117
+98,Check Point Software Technologies Ltd,CHKP,0.109
+99,Incyte Corp,INCY,0.104
+100,Fox Corp,FOXA,0.096
+101,Fox Corp,FOX,0.069
